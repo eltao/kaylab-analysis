@@ -1,3 +1,6 @@
+%% Odor presentation analysis
+% Plot power spectrum data of a single recording to compare pre- and post- infusion
+
 clearvars;
 
 %initialize channels
