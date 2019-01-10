@@ -1,3 +1,7 @@
+%% Odor presentation analysis
+% plot power spectrum data from different recording days to compare across
+% time / drug condition
+
 clearvars;
 
 %initialize channels
