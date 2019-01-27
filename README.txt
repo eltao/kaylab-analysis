@@ -1,4 +1,4 @@
-# neuro-research
+# kaylab-analysis
 MATLAB code for data analysis in neuroscience research using electrophysiology in awake, behaving rodents.
 
 Rodent Olfaction (Kay Lab, 2018-2019)
